@@ -1,9 +1,0 @@
-[package]
-name = "minigrep"
-version = "0.1.0"
-authors = ["Kyobian <rook2king.kre@gmail.com>"]
-
-[profile.dev]
-opt-level = 0
-
-[dependencies]
